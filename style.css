@@ -342,7 +342,6 @@ textarea{
     align-items:center;  
 }
 
-/* MOBILE */
 
 /* ---------- MOBILE ---------- */
 
@@ -420,7 +419,7 @@ textarea{
         font-size: 2rem;
     }
 
-section .glass-card, .feature-card, .cta-card {
+.section .glass-card, .feature-card, .cta-card {
     max-width: 90%;
     padding: 30px;
 }
@@ -428,7 +427,7 @@ section .glass-card, .feature-card, .cta-card {
     margin: 0 auto;
 }
 .hero {
-    padding: 60px 0px;
+    padding: 60px 12.5px;
 }
 .cta {
     padding: 0;
